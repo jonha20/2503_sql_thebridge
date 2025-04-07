@@ -1,4 +1,4 @@
-# Bootcamp - Data Science - Marzo 2024 - The Bridge
+# Bootcamp - Data Science - Marzo 2025 - The Bridge
 
 
 ![The Bridge](./Teoria/img/TheBridge_logo.png)
